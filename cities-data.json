@@ -1,0 +1,406 @@
+{
+    "istanbul": {
+        "img": "https://cdn.goturkiye.com/goturkey/istanbulll.jpg",
+        "url": "https://goistanbulturkiye.com/"
+    },
+    "cappadocia": {
+        "img": "https://cdn.goturkiye.com/goturkey/4-kapadokya.jpg",
+        "url": "https://gocappadociaturkiye.com/"
+    },
+    "mugla": {
+        "img": "https://cdn.goturkiye.com/goturkey/5-mugla.jpg",
+        "url": "https://gomuglaturkiye.com/"
+    },
+    "izmir": {
+        "img": "https://cdn.goturkiye.com/goturkey/6-izmir.jpg",
+        "url": "https://goizmirturkiye.com/"
+    },
+    "gaziantep": {
+        "img": "https://cdn.goturkiye.com/goturkey/antep.jpg",
+        "url": "https://gogaziantepturkiye.com/"
+    },
+    "sanliurfa": {
+        "img": "https://cdn.goturkiye.com/goturkey/sanliurfa.jpg",
+        "url": "https://gosanliurfaturkiye.com/"
+    },
+    "aydin": {
+        "img": "https://cdn.goturkiye.com/goturkey/aydin.jpg",
+        "url": "https://goaydinturkiye.com/"
+    },
+    "trabzon": {
+        "img": "https://cdn.goturkiye.com/goturkey/2-trabzon.jpg",
+        "url": "https://gotrabzonturkiye.com/"
+    },
+    "adana": {
+        "img": "https://cdn.goturkiye.com/goturkey/adana.jpg",
+        "url": "https://goadanaturkiye.com/"
+    },
+    "mersin": {
+        "img": "https://cdn.goturkiye.com/goturkey/2-mersin.jpg",
+        "url": "https://gomersinturkiye.com/"
+    },
+    "bursa": {
+        "img": "https://cdn.goturkiye.com/goturkey/bursa.jpg",
+        "url": "https://gobursaturkiye.com/"
+    },
+    "kayseri": {
+        "img": "https://cdn.goturkiye.com/goturkey/kayseri.jpg",
+        "url": "https://gokayseriturkiye.com/"
+    },
+    "amasya": {
+        "img": "https://cdn.goturkiye.com/goturkey/amasya.jpg",
+        "url": "https://goamasyaturkiye.com/"
+    },
+    "gumushane": {
+        "img": "https://cdn.goturkiye.com/goturkey/gumushane.jpg",
+        "url": "https://gogumushaneturkiye.com/"
+    },
+    "eskisehir": {
+        "img": "https://cdn.goturkiye.com/goturkey/eskisehir.jpg",
+        "url": "https://goeskisehirturkiye.com/"
+    },
+    "tokat": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-tokat.jpg",
+        "url": "https://gotokatturkiye.com/"
+    },
+    "konya": {
+        "img": "https://cdn.goturkiye.com/goturkey/2-konya.jpg",
+        "url": "https://gokonyaturkiye.com/"
+    },
+    "sakarya": {
+        "img": "https://cdn.goturkiye.com/goturkey/sakarya.jpg",
+        "url": "https://gosakaryaturkiye.com/"
+    },
+    "adiyaman": {
+        "img": "https://cdn.goturkiye.com/goturkey/adiyaman.jpg",
+        "url": "https://goadiyamanturkiye.com/"
+    },
+    "siirt": {
+        "img": "https://cdn.goturkiye.com/goturkey/siirt.jpg",
+        "url": "https://gosiirtturkiye.com/"
+    },
+    "ardahan": {
+        "img": "https://cdn.goturkiye.com/goturkey/2-ardahan.jpg",
+        "url": "https://goardahanturkiye.com/"
+    },
+    "bilecik": {
+        "img": "https://cdn.goturkiye.com/goturkey/bilecik.jpg",
+        "url": "https://gobilecikturkiye.com/"
+    },
+    "balikesir": {
+        "img": "https://cdn.goturkiye.com/goturkey/balikesir.jpg",
+        "url": "https://gobalikesirturkiye.com/"
+    },
+    "canakkale": {
+        "img": "https://cdn.goturkiye.com/goturkey/cankkale.jpg",
+        "url": "https://gocanakkaleturkiye.com/"
+    },
+    "edirne": {
+        "img": "https://cdn.goturkiye.com/goturkey/edirne.jpg",
+        "url": "https://goedirneturkiye.com/"
+    },
+    "kastamonu": {
+        "img": "https://cdn.goturkiye.com/goturkey/kastamonu.jpg",
+        "url": "https://gokastamonuturkiye.com/"
+    },
+    "bitlis": {
+        "img": "https://cdn.goturkiye.com/goturkey/bitlis.jpg",
+        "url": "https://gobitlisturkiye.com/"
+    },
+    "tekirdag": {
+        "img": "https://cdn.goturkiye.com/goturkey/tekirdag.jpg",
+        "url": "https://gotekirdagturkiye.com/"
+    },
+    "aegean": {
+        "img": "https://cdn.goturkiye.com/goturkey/destination-kartlar.jpg",
+        "url": "https://goaegeanturkiye.com"
+    },
+    "turkiyevillages.com": {
+        "img": "https://cdn.goturkiye.com/goturkey/villages.jpg",
+        "url": "https://goturkiyevillages.com/homepage"
+    },
+    "fethiye": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-fethiye.jpg",
+        "url": "https://gofethiyeturkiye.com/homepage"
+    },
+    "blacksea": {
+        "img": "https://cdn.goturkiye.com/goturkey/2-black-sea.jpg",
+        "url": "https://goblackseaturkiye.com"
+    },
+    "central": {
+        "img": "https://cdn.goturkiye.com/goturkey/central.jpg",
+        "url": "https://gocentralturkiye.com"
+    },
+    "eastern": {
+        "img": "https://cdn.goturkiye.com/goturkey/2-eastern.jpg",
+        "url": "https://goeasternturkiye.com"
+    },
+    "marmara": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-marmara.jpg",
+        "url": "https://gomarmaraturkiye.com"
+    },
+    "mediterranean": {
+        "img": "https://cdn.goturkiye.com/goturkey/mediiterranean.jpg",
+        "url": "https://gomediterraneanturkiye.com"
+    },
+    "mesopotamia": {
+        "img": "https://cdn.goturkiye.com/goturkey/2-mesopotamia.jpg",
+        "url": "https://gomesopotamiaturkiye.com"
+    },
+    "southeastern": {
+        "img": "https://cdn.goturkiye.com/goturkey/southeastern.jpg",
+        "url": "https://gosoutheasternturkiye.com"
+    },
+    "bodrum": {
+        "img": "https://cdn.goturkiye.com/goturkey/4-bodrum.jpg",
+        "url": "https://gobodrumturkiye.com/"
+    },
+    "cesme": {
+        "img": "https://cdn.goturkiye.com/goturkey/alacati-cesme-urla.jpg",
+        "url": "https://gocesmeturkiye.com"
+    },
+    "marmaris": {
+        "img": "https://cdn.goturkiye.com/goturkey/2-marmaris.jpg",
+        "url": "https://gomarmaristurkiye.com/"
+    },
+    "afyon": {
+        "img": "https://cdn.goturkiye.com/goturkey/afyonkarahisar.jpg",
+        "url": "https://goafyonturkiye.com/"
+    },
+    "aksaray": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-aksaray.jpg",
+        "url": "https://goaksarayturkiye.com/homepage"
+    },
+    "ankara": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-ankara.jpg",
+        "url": "https://goankaraturkiye.com/"
+    },
+    "artvin": {
+        "img": "https://cdn.goturkiye.com/goturkey/artvin.jpg",
+        "url": "https://goartvinturkiye.com/"
+    },
+    "agri": {
+        "img": "https://cdn.goturkiye.com/goturkey/agri.jpg",
+        "url": "https://goagriturkiye.com/homepage"
+    },
+    "bartin": {
+        "img": "https://cdn.goturkiye.com/goturkey/bartin.jpg",
+        "url": "https://gobartinturkiye.com/"
+    },
+    "batman": {
+        "img": "https://cdn.goturkiye.com/goturkey/batman-1.png",
+        "url": "https://gobatmanturkiye.com/homepage"
+    },
+    "bayburt": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-bayburt.jpg",
+        "url": "https://gobayburtturkiye.com/"
+    },
+    "bin": {
+        "img": "https://cdn.goturkiye.com/goturkey/2-bingol.jpg",
+        "url": "https://gobingolturkiye.com/homepage"
+    },
+    "bolu": {
+        "img": "https://cdn.goturkiye.com/goturkey/bolu.jpg",
+        "url": "https://goboluturkiye.com/homepage"
+    },
+    "burdur": {
+        "img": "https://cdn.goturkiye.com/goturkey/2-burdur.jpg",
+        "url": "https://goburdurturkiye.com/homepage"
+    },
+    "cankiri": {
+        "img": "https://cdn.goturkiye.com/goturkey/cankirii.jpg",
+        "url": "https://gocankiriturkiye.com/"
+    },
+    "corum": {
+        "img": "https://cdn.goturkiye.com/goturkey/corum.jpg",
+        "url": "https://gocorumturkiye.com/homepage"
+    },
+    "datca": {
+        "img": "https://cdn.goturkiye.com/goturkey/datca.jpg",
+        "url": "https://godatcaturkiye.com/"
+    },
+    "denizli": {
+        "img": "https://cdn.goturkiye.com/goturkey/denizli.jpg",
+        "url": "https://godenizliturkiye.com/"
+    },
+    "diyarbakir": {
+        "img": "https://cdn.goturkiye.com/goturkey/diyarbakir-1.jpg",
+        "url": "https://godiyarbakirturkiye.com/homepage"
+    },
+    "duzce": {
+        "img": "https://cdn.goturkiye.com/goturkey/duzce.jpg",
+        "url": "https://goduzceturkiye.com/homepage"
+    },
+    "elazig": {
+        "img": "https://cdn.goturkiye.com/goturkey/elazig.jpg",
+        "url": "https://www.goelazigturkiye.com/homepage"
+    },
+    "erzincan": {
+        "img": "https://cdn.goturkiye.com/goturkey/erzincan.jpg",
+        "url": "https://goerzincanturkiye.com/"
+    },
+    "erzurum": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-erzurum.jpg",
+        "url": "https://goerzurumturkiye.com/"
+    },
+    "giresun": {
+        "img": "https://cdn.goturkiye.com/goturkey/giresun.jpg",
+        "url": "https://gogiresunturkiye.com/"
+    },
+    "hakkari": {
+        "img": "https://cdn.goturkiye.com/goturkey/hakkari.jpg",
+        "url": "https://gohakkariturkiye.com/homepage"
+    },
+    "hatay": {
+        "img": "https://cdn.goturkiye.com/goturkey/hatay.jpg",
+        "url": "https://gohatayturkiye.com/"
+    },
+    "igdir": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-igdir.jpg",
+        "url": "https://goigdirturkiye.com/homepage"
+    },
+    "isparta": {
+        "img": "https://cdn.goturkiye.com/goturkey/isparta.jpg",
+        "url": "https://goispartaturkiye.com/"
+    },
+    "kahramanmaras": {
+        "img": "https://cdn.goturkiye.com/goturkey/kahramanmaras-kart.jpg",
+        "url": "https://gokahramanmarasturkiye.com/"
+    },
+    "karabuk": {
+        "img": "https://cdn.goturkiye.com/goturkey/karabuk.jpg",
+        "url": "https://gokarabukturkiye.com/"
+    },
+    "karaman": {
+        "img": "https://cdn.goturkiye.com/goturkey/karaman.jpg",
+        "url": "https://gokaramanturkiye.com/homepage"
+    },
+    "kars": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-kars.jpg",
+        "url": "https://gokarsturkiye.com/"
+    },
+    "kirklareli": {
+        "img": "https://cdn.goturkiye.com/goturkey/kirklareli.jpg",
+        "url": "https://gokirklareliturkiye.com/"
+    },
+    "kirikkale": {
+        "img": "https://cdn.goturkiye.com/goturkey/kirikkale.jpg",
+        "url": "https://gokirikkaleturkiye.com/"
+    },
+    "kirsehir": {
+        "img": "https://cdn.goturkiye.com/goturkey/kirsehir.jpg",
+        "url": "https://gokirsehirturkiye.com/"
+    },
+    "kilis": {
+        "img": "https://cdn.goturkiye.com/goturkey/kart-kilis.jpg",
+        "url": "https://gokilisturkiye.com/"
+    },
+    "kocaeli": {
+        "img": "https://cdn.goturkiye.com/goturkey/kocaeli.jpg",
+        "url": "https://gokocaeliturkiye.com/"
+    },
+    "kusadasi": {
+        "img": "https://cdn.goturkiye.com/goturkey/kusadasi4.jpg",
+        "url": "https://gokusadasiturkiye.com/homepage"
+    },
+    "kutahya": {
+        "img": "https://cdn.goturkiye.com/goturkey/kutahya.jpg",
+        "url": "https://gokutahyaturkiye.com/"
+    },
+    "malatya": {
+        "img": "https://cdn.goturkiye.com/goturkey/malatya-1-1.jpg",
+        "url": "https://gomalatyaturkiye.com/homepage"
+    },
+    "manisa": {
+        "img": "https://cdn.goturkiye.com/goturkey/manisa.jpg",
+        "url": "https://gomanisaturkiye.com/"
+    },
+    "mardin": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-mardin.jpg",
+        "url": "https://gomardinturkiye.com/"
+    },
+    "mustafapasa": {
+        "img": "https://cdn.goturkiye.com/goturkey/mustafapasa.jpg",
+        "url": "https://gomustafapasaturkiye.com/homepage"
+    },
+    "mus": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-mus.jpg",
+        "url": "https://gomusturkiye.com/"
+    },
+    "nevsehir": {
+        "img": "https://cdn.goturkiye.com/goturkey/nevsehir.jpg",
+        "url": "https://gonevsehirturkiye.com/"
+    },
+    "nigde": {
+        "img": "https://cdn.goturkiye.com/goturkey/nigde.jpg",
+        "url": "https://gonigdeturkiye.com/"
+    },
+    "ordu": {
+        "img": "https://cdn.goturkiye.com/goturkey/ordu.jpg",
+        "url": "https://goorduturkiye.com/"
+    },
+    "ormana": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-ormana.jpg",
+        "url": "https://goormanaturkiye.com/homepage"
+    },
+    "osmaniye": {
+        "img": "https://cdn.goturkiye.com/goturkey/osmaniye.jpg",
+        "url": "https://goosmaniyeturkiye.com/"
+    },
+    "pamukkale": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-pamukkale.jpg",
+        "url": "https://gopamukkaleturkiye.com/homepage"
+    },
+    "patara": {
+        "img": "https://cdn.goturkiye.com/goturkey/2-patara.jpg",
+        "url": "https://gopataraturkiye.com/"
+    },
+    "rize": {
+        "img": "https://cdn.goturkiye.com/goturkey/rize.jpg",
+        "url": "https://gorizeturkiye.com/"
+    },
+    "samsun": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-samsun.jpg",
+        "url": "https://gosamsunturkiye.com/"
+    },
+    "sinop": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-sinop.jpg",
+        "url": "https://gosinopturkiye.com/"
+    },
+    "sivas": {
+        "img": "https://cdn.goturkiye.com/goturkey/sivas.jpg",
+        "url": "https://gosivasturkiye.com/"
+    },
+    "sirnak": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-sirnak.png",
+        "url": "https://gosirnakturkiye.com/homepage"
+    },
+    "tarakli": {
+        "img": "https://cdn.goturkiye.com/goturkey/tarakli.jpg",
+        "url": "https://gotarakliturkiye.com/homepage"
+    },
+    "tunceli": {
+        "img": "https://cdn.goturkiye.com/goturkey/2-tunceli.jpg",
+        "url": "https://gotunceliturkiye.com/homepage"
+    },
+    "usak": {
+        "img": "https://cdn.goturkiye.com/goturkey/usgak.jpg",
+        "url": "https://gousakturkiye.com/"
+    },
+    "van": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-van.jpg",
+        "url": "https://govanturkiye.com/homepage"
+    },
+    "yalova": {
+        "img": "https://cdn.goturkiye.com/goturkey/yalova.jpg",
+        "url": "https://goyalovaturkiye.com/"
+    },
+    "yozgat": {
+        "img": "https://cdn.goturkiye.com/goturkey/1-yozgat.jpg",
+        "url": "https://goyozgatturkiye.com/homepage"
+    },
+    "zonguldak": {
+        "img": "https://cdn.goturkiye.com/goturkey/zonguldak.jpg",
+        "url": "https://gozonguldakturkiye.com/homepage"
+    }
+}
